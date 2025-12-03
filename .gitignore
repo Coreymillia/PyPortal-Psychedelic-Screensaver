@@ -1,0 +1,24 @@
+# CircuitPython
+*.mpy
+.DS_Store
+__pycache__/
+
+# PyPortal specific
+settings.toml
+secrets.py
+boot_out.txt
+.Trashes
+.fseventsd
+.metadata_never_index
+
+# Development files
+Adafruit_CircuitPython_PyPortal-main.zip
+Adafruit_CircuitPython_PyPortal-main/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
